@@ -1,4 +1,5 @@
 Project 4: Python Assignments 🐍
+
 Overview 🌟
 Welcome to Project 4: Python Assignments repository. This project contains a series of Python-based assignments designed to demonstrate core programming concepts and enhance problem-solving and coding skills. Each assignment focuses on key concepts such as loops, functions, data structures, user interactions, and Streamlit for building interactive web applications. These assignments are structured to provide a strong foundation in Python programming, emphasizing both theoretical knowledge and practical application.
 
